@@ -1,0 +1,32 @@
+h1{
+    font-family: Libre Baskerville;
+    text-transform: uppercase;
+}
+body{
+    background-color: black;
+}
+#ab{
+    color: red;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    
+}
+p{
+    font-size: x-large;
+}
+#cc{
+     
+    width: 100%;
+    
+}
+#aa{
+    width: 120px;
+    border: none;
+}
+#bb{
+    width: 120px;
+    border: none;
+   
+}
